@@ -14,7 +14,7 @@ To enable the `User Profile` feature:
 2. Start the project using the following command:
 
 ```bash
-docker-compose up -d
+docker compose up -d
 ```
 
 3. Once the Keycloak instance is up and running, navigate to the admin console.
